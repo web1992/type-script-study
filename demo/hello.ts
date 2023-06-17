@@ -2,5 +2,5 @@ function hello(name:string){
     return "Hello "+name;
 }
 
-let user='Tom';
-console.log(hello(user));
+let userTom='Tom';
+console.log(hello(userTom));
